@@ -1,4 +1,4 @@
-def suma(x,y):
+def suma(x,y):#esto es una suma de dos numeros
     return x+y
 
 def resta (x,y):
