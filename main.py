@@ -1,4 +1,4 @@
-def resta (x,y):
+def resta (x,y): #esto es una resta
     return x-y        
 
 respuesta=resta(5,7)
